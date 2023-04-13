@@ -520,6 +520,7 @@
 		| 'e1cib/data/Catalog.ObjectStatuses?ref=b76bafe8d8921be311ebc44d41a46794' | 'False'        | 'e1cib/data/Catalog.ObjectStatuses?refName=IncomingPaymentOrder'    | 'False'    | 25     | 'False'        | 'False'   | 'На согласовании'                         | ''                 | ''               | ''               | '_b9335c1f9b0d40a9a77e0c86bdf06260' |
 		| 'e1cib/data/Catalog.ObjectStatuses?ref=b76bafe8d8921be311ebc44d41a46795' | 'False'        | 'e1cib/data/Catalog.ObjectStatuses?refName=IncomingPaymentOrder'    | 'False'    | 26     | 'True'         | 'True'    | 'Согласовано'                             | ''                 | ''               | ''               | '_52af65cf7e95432f9414dd8a5f862e13' |
 
+
 	И я проверяю или создаю для справочника "Specifications" объекты с обмен данными загрузка истина:
 		| 'Ref'                                                                    | 'DeletionMark' | 'Code' | 'Type'                          | 'ItemBundle'                                                    | 'UniqueMD5'                                       | 'Description_en'           | 'Description_hash'         | 'Description_ru'           | 'Description_tr'           |
 		| 'e1cib/data/Catalog.Specifications?ref=b762b13668d0905011eb766bf96b2755' | 'False'        | 1      | 'Enum.SpecificationType.Set'    | ''                                                              | 'A3 26 8D 43 98 25 08 12 B0 08 0D 6E EA C5 3A E0' | 'Спецификация 1'           | ''                         | ''                         | ''                         |
