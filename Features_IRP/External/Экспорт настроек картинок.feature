@@ -17,8 +17,8 @@
 
 	И я перезаполняю для объекта табличную часть "ConnectionSetting":
 		| 'Ref'                                                                         | 'Key'         | 'Value'                               |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\\Users\\Viktor\\Documents\\Documents\\GitHub\\TestQA\\Features_IRP\\Source'  |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'C:\\Users\\Viktor\\Documents\\Documents\\GitHub\\TestQA\\Features_IRP\\Preview' |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\\Users\\Seramiti\\Documents\\Source'  |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'C:\\Users\\Seramiti\\Documents\\Preview' |
 
 	И я перезаполняю константу "DefaultPictureStorageVolume" значением "e1cib/data/Catalog.FileStorageVolumes?ref=b772dbcd8801bc7611ec420177a49496"
 
@@ -26,3 +26,5 @@
 
 		| 'Ref'                                                                        | 'DeletionMark' | 'Code' | 'Description'             | 'FilesType'              | 'POSTIntegrationSettings'                                                     | 'GETIntegrationSettings'                                                      |
 		| 'e1cib/data/Catalog.FileStorageVolumes?ref=b772dbcd8801bc7611ec420177a49496' | 'False'        | 1      | 'DEFAULT PICTURE STORAGE' | 'Enum.FileTypes.Picture' | 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' |
+
+	
