@@ -123,7 +123,8 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"D:\\Work\\vanessa-automation.1.2.040.9\\vanessa-automation\\features\\Libraries",
-		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Features_IRP\\External"
+		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Features_IRP\\External",
+		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Модуль4\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
