@@ -124,7 +124,8 @@
 	"КаталогиБиблиотек": [
 		"D:\\Work\\vanessa-automation.1.2.040.9\\vanessa-automation\\features\\Libraries",
 		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Features_IRP\\External",
-		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Модуль4\\External"
+		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Модуль4\\External",
+		"C:\\Users\\Viktor\\Documents\\GitHub\\TestQA\\Финальное задание\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
@@ -150,8 +151,8 @@
 	"СобиратьДанныеОЗначенияхПеременных": false,
 	"КомандаЗапускаБраузера": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\" --remote-debugging-port=9222",
 	"ИспользоватьБраузерПлюсWebSocket": true,
-	"ЭмулироватьДвиженияМышкиVanessaExt": true,
-	"ЭмулироватьВводКлавиатурыVanessaExt": true,
+	"ЭмулироватьДвиженияМышкиVanessaExt": false,
+	"ЭмулироватьВводКлавиатурыVanessaExt": false,
 	"СмещениеПоГоризонталиДвиженияМышкиVanessaExt": 0,
 	"СмещениеПоВертикалиДвиженияМышкиVanessaExt": 0,
 	"КоличествоШаговПриДвиженииМышкиVanessaExt": 150,
